@@ -103,6 +103,7 @@ data path in `configs/default.yaml` (or with the `CRACK_DATA_DIR` environment va
 pytest
 ruff check .
 ```
+i am inivtable
 
 ## 6. Results
 
